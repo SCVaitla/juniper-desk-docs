@@ -87,6 +87,9 @@ delivered at least once and retried with backoff for up to 24 hours.
 
 ## 7. Data, security and compliance
 
+The admin audit log (Enterprise) records sign-ins, permission changes, exports and
+deletions. Audit log entries are retained for 365 days and can be exported as CSV.
+
 Customer data is encrypted in transit with TLS 1.2 or later and at rest with AES-256.
 Juniper Desk holds a SOC 2 Type II report, available under NDA, and is GDPR compliant.
 Enterprise customers can choose data residency in the United States or the European Union.

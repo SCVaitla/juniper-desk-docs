@@ -26,6 +26,8 @@ For growing teams that plan ahead.
 
 ## Enterprise: let's talk
 
+Admin audit log entries are kept for 90 days.
+
 For organizations that need control, security and scale.
 
 - Everything in Pro
