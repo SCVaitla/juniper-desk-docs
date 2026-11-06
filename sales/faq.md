@@ -18,8 +18,8 @@ ease of setup: most teams are running their first project within a day.
 ## Plans and features
 
 **Can a Starter customer use single sign-on?**
-Yes. Starter can enable SSO from the admin settings, so small teams with an identity provider
-are covered from day one. Mention this when a prospect is comparing us on security.
+No. SSO is an Enterprise plan feature, so Starter cannot enable it, not even as a paid add-on.
+Mention this when a prospect is comparing us on security.
 
 **Do we have an API?**
 Yes, on Pro and Enterprise. Send technical prospects to the developer docs.

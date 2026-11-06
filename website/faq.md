@@ -17,8 +17,8 @@ upgrade to Pro at any time and keep all of your projects.
 ## Security and sign-in
 
 ### Is single sign-on available on every plan?
-Yes. Single sign-on is included on all plans, so your team can log in with the identity
-provider you already use.
+No. Single sign-on is included on the Enterprise plan only, so Enterprise teams can log in with the identity
+provider they already use. It is not available on Starter or Pro, even as a paid add-on.
 
 ### Is my data encrypted?
 Yes. Data is encrypted in transit and at rest. We hold a SOC 2 Type II report, which
